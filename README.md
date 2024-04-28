@@ -10,6 +10,6 @@ You can also do this by yourself on etherscan, go to the Comptroller contract, g
 ## Run yourself
 
 ```
-npm i
+yarn install
 npm run dev
 ```
